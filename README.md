@@ -1,7 +1,7 @@
-# Calculo de pi pela serie Leibniz
+# Calculo de pi pela série Leibniz
 
 Este código apresenta os resultados dos testes  realizados para o cálculo do 
-número de π, utilizando a Serie de Leibniz. 
+número de π, utilizando a Série de Leibniz. 
 
 O número π é uma constante matemática fundamental amplamente utilizada em diversas áreas da ciência e da 
 engenharia. Uma das formas de aproximar seu valor é por meio da Série de Leibniz, uma série infinita alternada que,
